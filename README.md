@@ -3,7 +3,7 @@
 
 
 <p align="left">🎓 Computer Systems Engineering student at PTUK  <br>💻 Passionate about Backend Development and Databases</p> 
-contact me on 
+ 
 
 ###
 
